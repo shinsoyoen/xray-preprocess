@@ -1,0 +1,7 @@
+# 데이터는 올리지 않음
+Processed/
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.my_ai_project_cpu
